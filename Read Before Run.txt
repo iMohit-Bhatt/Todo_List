@@ -1,0 +1,4 @@
+This a react based application! 
+In this application, I doesn't found any need of using node js. 
+kindly install all required modules before running the file
+must install uuid module.
